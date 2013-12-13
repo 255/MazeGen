@@ -1,0 +1,17 @@
+# Unwanted folders
+test/
+bin/
+/**/OLD/
+
+# Junk files
+*.swp
+*.bak
+*.log
+*.*~
+~*
+.DS_Store
+*.txt
+
+# Build outputs
+*.[ao]
+*.exe
